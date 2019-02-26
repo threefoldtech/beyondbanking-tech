@@ -4,6 +4,6 @@ Beginning of the new age banking based on top of ThreeFold Grid.
 
 Landing website.
 
-Built with [http://mobirise.com](Mobirise).
+Built with [Mobirise](http://mobirise.com).
 
-Deployed on [https://threefold.io](ThreeFold Grid)
+Deployed on [ThreeFold Grid](https://threefold.io)
